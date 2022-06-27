@@ -1,14 +1,14 @@
 # Radiomic Features for Breast IR Imaging Classification
 
-This dataset contains 219 features extracted from IR images acquired from healthy and breast cancer patients. All the features were extracted using PyRadiomics and Mahotas Frameworks for Python Programming Language. A novel thermal feature described in the paper is also present in the dataset. The attributes description and the classes are described below.
+This dataset contains 219 features extracted from IR images acquired from healthy and breast cancer patients. All the features were extracted using PyRadiomics and Mahotas Frameworks for Python Programming Language. The attributes description and the classes are described below.
 
 Original images source:
 
-Silva, L. F., Saade, D. C. M., Sequeiros, G. O., Silva, A. C., Paiva, A. C., Bravo, R. S., & Conci, A. (2014). A new database for breast research with infrared image. Journal of Medical Imaging and Health Informatics, 4(1), 92-100. Available at: https://visual.ic.uff.br/dmi/
+- Silva, L. F., Saade, D. C. M., Sequeiros, G. O., Silva, A. C., Paiva, A. C., Bravo, R. S., & Conci, A. (2014). A new database for breast research with infrared image. Journal of Medical Imaging and Health Informatics, 4(1), 92-100. Available at: https://visual.ic.uff.br/dmi/
 
 This feature dataset can be used for research proposes and reproducibility. If using, please reference the following paper:
 
-To be published.
+- Baffa, M. F. O., Conci, A. Radiomics for Breast IF-Imaging Classification. To be published.
 
 Dataset Attributes:
 
