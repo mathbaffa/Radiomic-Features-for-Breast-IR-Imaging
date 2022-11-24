@@ -8,7 +8,7 @@ Original images source:
 
 This feature dataset can be used for research proposes and reproducibility. If using, please reference the following paper:
 
-- Baffa, M. F. O., Conci, A. (2022). Radiomics for Breast IF-Imaging Classification. To be published.
+- Baffa, M.d.F.O., Conci, A. (2022). Radiomics for Breast IR-Imaging Classification. In: , et al. Artificial Intelligence over Infrared Images for Medical Applications and Medical Image Assisted Biomarker Discovery. MIABID AIIIMA 2022 2022. Lecture Notes in Computer Science, vol 13602. Springer, Cham. https://doi.org/10.1007/978-3-031-19660-7_2
 
 Dataset Attributes:
 
